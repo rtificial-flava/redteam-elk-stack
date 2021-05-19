@@ -1,0 +1,1 @@
+# redteam-elk-stack
