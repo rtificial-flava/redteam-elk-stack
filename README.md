@@ -94,6 +94,7 @@ SSH into the control node and follow the steps below:
 #### Setup walk through
 ##### Installing docker in the terminal
 run each command in the terminal in the order posted
+
 `sudo apt update`
 `sudo apt install docker.io`
 `sudo systemctl status docker`
